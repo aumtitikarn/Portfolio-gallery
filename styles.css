@@ -745,6 +745,10 @@ p {
     .navbar-content {
         flex-wrap: wrap;
     }
+    .project-q {
+      font-size: 1.6em;
+      text-align: center;
+  }
 }
 
 
